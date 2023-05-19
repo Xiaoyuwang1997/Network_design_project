@@ -1,8 +1,8 @@
 # Network_design_project
 ## Code explanation:
-### 1-level_MIP.ipynb 
+### One-level_MIP.ipynb 
 related to the One-level MIP model
-### 4-level_MIP.ipynb 
+### Four-level_MIP.ipynb 
 related to 4-level MIP model and contains the algorithm for heuristic methods
 ### Scalable_model_demonstrate.ipynb 
 related to the scaled MIP model
